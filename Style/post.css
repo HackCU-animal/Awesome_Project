@@ -1,13 +1,13 @@
 .container1{
   text-align: center;
-  background-color: #FFDAB9;
+  background-color: #FAFAFA;
 }
 
 .grid-container {
   display: grid;
   grid-template-columns: repeat(4,1fr);
   grid-gap: 10px;
-  background-color: #FFDAB9;
+  background-color: #FAFAFA;
   padding: 10px;
 }
 

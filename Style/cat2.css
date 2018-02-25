@@ -1,0 +1,33 @@
+
+
+
+.jumbotron{
+  background-color: #FAFAFA;
+}
+
+
+.container .col-sm-3{
+  background-color: #FFDAB9;
+}
+
+.container .col-sm-3{
+  background-color: #000000;
+}
+.container .col-sm-3{
+  background-color: #FFDAB9;
+}
+
+.img1{
+  /* transform: rotate(180deg); */
+  height: 300px;
+  width: 300px;
+}
+
+.descrip-cat1{
+  font-size: 20px;
+}
+
+
+.container{
+  background-color: inherit;
+}
