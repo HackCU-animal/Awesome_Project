@@ -1,0 +1,52 @@
+
+
+
+.navbar-right{
+  color: #007bff !important;
+  font-size: 30px;
+}
+
+.navbar-default {
+  background: 	#343a40;
+  border: 0;
+  font-style: Sunrise;
+  /*font-family: 'Waiting for the Sunrise';*/
+}
+
+.navbar-brand{
+  font-size: 30px;
+  color: #fff !important;
+  /*!important means if will overwrite anyother style */
+  font-weight: bold;
+  /* font-family: 'Waiting for the Sunrise'; */
+}
+
+.jumbotron{
+  background-color: #FFDAB9;
+}
+
+
+.container .col-sm-3{
+  background-color: #FFDAB9;
+}
+
+.container .col-sm-3{
+  background-color: #000000;
+}
+.container .col-sm-3{
+  background-color: #FFDAB9;
+}
+
+.img1{
+  transform: rotate(180deg);
+  height: 200px;
+}
+
+.descrip-cat1{
+  font-size: 20px;
+}
+
+
+.container{
+  background-color: inherit;
+}
